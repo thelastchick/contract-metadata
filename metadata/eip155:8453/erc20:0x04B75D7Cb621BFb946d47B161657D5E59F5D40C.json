@@ -1,0 +1,9 @@
+{
+  "eip155:8453/erc20:0x04B75D7Cb621BFb946d47B161657D5E59F5D40C": {
+    "name": "The Last Chick",
+    "symbol": "TLC",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:8453/erc20:0x04B75D7Cb621BFb946d47B161657D5E59F5D40C.png"
+  }
+}
