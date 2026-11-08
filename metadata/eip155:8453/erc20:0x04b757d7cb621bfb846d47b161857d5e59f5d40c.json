@@ -1,10 +1,9 @@
 {
-  "name": "The Last Chick",
-  "symbol": "TLC",
-  "decimals": 18,
-  "website": "https://thelastchick.com/",
-  "description": "The Last Chick (TLC) is a community-driven project on Base.",
-  "explorer": "https://basescan.org/token/0x04B757D7Cb621BFb846d47B161857D5E59F5D40C",
-  "type": "ERC20",
-  "logo": "https://raw.githubusercontent.com/thelastchick/tlc/main/assets/thelastchick_TLC.png"
+  "0x04B75D7Cb621BFb946d47B161657D5E59F5D40C": {
+    "name": "The Last Chick",
+    "symbol": "TLC",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "0x04B75D7Cb621BFb946d47B161657D5E59F5D40C.png"
+  }
 }
